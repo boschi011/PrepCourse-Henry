@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-mi primer repositorio con prácticas de prercourse
+prueba de como crear un repositorio y clonarlo
